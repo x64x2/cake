@@ -1,1 +1,0 @@
-int SelfTest(int level);
